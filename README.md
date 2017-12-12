@@ -1,2 +1,2 @@
-# Benny and Phil's Machine Learning side hustle
+# Benny, Phil and johny's Machine Learning side hustle
 This Repository serves as a platform for Phil and Benny to collaborate and improve their knowledge and skills on the field of Machine Learning and Data Science.
